@@ -3,7 +3,7 @@
 
 # 2018/4/12
 # author: LIShuHang
-# 根据项亮的推荐系统实践，基于operator实现的基于用户的协同过滤算法
+# 根据项亮的推荐系统实践，基于operator实现的基于物品的协同过滤算法
 # 数据集使用的是ml-100k
 
 import sys
