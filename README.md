@@ -10,4 +10,4 @@ Recommender System
 
 
 # [基于模型的协同过滤算法](https://github.com/m-L-0/18a-RecSys-LIShuHang-2015/blob/master/modelCF.py)
-### [算法结果]()
+### [算法结果](https://github.com/m-L-0/18a-RecSys-LIShuHang-2015/blob/master/outcome/%E5%9F%BA%E4%BA%8E%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%AE%97%E6%B3%95.png)
